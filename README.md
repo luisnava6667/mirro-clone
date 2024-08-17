@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mirro Clone 
+## Descripción
+**Mirro Clone** es una réplica funcional de Mirro, diseñada para proporcionar una plataforma donde los equipos pueden mantenerse organizados, alineados y comprometidos. La aplicación permite la creación de perfiles de equipo, la organización de objetivos y la gestión del feedback entre los miembros del equipo.
 
-## Getting Started
+## Características- Creación y personalización de perfiles de equipo.
+- Gestión y seguimiento de objetivos.
+- Interfaz intuitiva para facilitar la colaboración y el feedback entre los miembros del equipo.
+- Visualización clara y organizada de la información relevante para el equipo.
 
-First, run the development server:
+## Tecnologías Utilizadas-
+-**Frontend:** NextJs 14, Typescript y Tailwindcss
+-**Backend:** CLERK 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+-**Despliegue:** VERCEL
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Instalación
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/luisnava6667/mirro-clone.git
+2. Instala las dependencias:
+    ```bash
+    npm install
+3. Inicia la aplicación:
+    ```bash
+    npm run dev
+    
+##Uso
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Navega a http://localhost:3000 en tu navegador para acceder a la aplicación.
+- Configura perfiles de equipo y organiza los objetivos según las necesidades de tu proyecto.
+##Contribuciones
+Las contribuciones son bienvenidas. Si deseas colaborar en el desarrollo de esta aplicación, por favor sigue estos pasos:
+1. Haz un fork del proyecto.
+2. Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+3. Realiza tus cambios y haz un commit (git commit -m 'Añadir nueva funcionalidad').
+4. Haz un push a la rama (git push origin feature/nueva-funcionalidad).
+5. Abre un pull request.
+##Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
