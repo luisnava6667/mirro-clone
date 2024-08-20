@@ -24,11 +24,12 @@
     ```bash
     npm run dev
     
-##Uso
+## Uso
 
 - Navega a http://localhost:3000 en tu navegador para acceder a la aplicación.
 - Configura perfiles de equipo y organiza los objetivos según las necesidades de tu proyecto.
-##Contribuciones
+  
+## Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar en el desarrollo de esta aplicación, por favor sigue estos pasos:
 1. Haz un fork del proyecto.
 2. Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
